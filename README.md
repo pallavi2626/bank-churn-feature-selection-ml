@@ -1,9 +1,9 @@
 # bank-churn-feature-selection-ml
 Machine learning project focused on feature selection for predicting bank customer churn and identifying the most important features influencing customer retention 
-# Bank Churn Feature Selection using Machine Learning
-# Project Information
-# Group: The code of duty 
-# Group Members
+ <h1>Bank Churn Feature Selection using Machine Learning</h1>
+  <h2>Project Information</h2>
+<p><strong>Group:</strong> The code of duty</p>
+ <h3>Group Members</h3>
 # Name	Roll No.
 <table>
     <thead>
