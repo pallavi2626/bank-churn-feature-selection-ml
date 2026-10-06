@@ -64,3 +64,20 @@ Machine learning project focused on feature selection for predicting bank custom
   </p>
    <h2>Data Processing and Methodology</h2>
      <p>The following steps were performed after collecting the dataset:</p>
+     <ol>
+    <li>📥 <strong>Data Collection:</strong> Imported the Bank Churn Modelling dataset into the working environment.</li>
+    <li>🔍 <strong>Data Understanding:</strong> Examined the dataset structure, columns, data types, and target variable.</li>
+    <li>🧹 <strong>Data Cleaning:</strong> Checked for missing values, duplicate records, and inconsistent data.</li>
+    <li>🔄 <strong>Data Preprocessing:</strong> Removed non-predictive identifier columns and converted categorical variables into numerical form using suitable encoding techniques.</li>
+    <li>📊 <strong>Exploratory Data Analysis:</strong> Analysed customer characteristics and their relationship with churn using statistical summaries and visualisations.</li>
+    <li>⚖️ <strong>Feature Scaling:</strong> Applied scaling where required to bring numerical features to a comparable range.</li>
+    <li>🎯 <strong>Feature Selection:</strong> Used feature selection techniques to identify the most relevant and influential features.</li>
+    <li>🤖 <strong>Model Preparation:</strong> Divided the processed data into training and testing sets for machine learning analysis.</li>
+    <li>📈 <strong>Performance Evaluation:</strong> Compared model performance before and after feature selection using suitable evaluation metrics.</li>
+  </ol>
+    <h2>Conclusion</h2>
+    <p>
+    Feature selection helps in identifying the most relevant features from the dataset, reducing unnecessary information and making machine learning models more efficient and easier to interpret. The data preprocessing and exploratory analysis steps improved the quality of the dataset, while feature selection helped focus the model on the variables most closely associated with customer churn. Overall, this project demonstrates how Python-based machine learning tools can support effective customer churn analysis and assist banks in developing better customer-retention strategies.
+  </p>
+  </body>
+</html>
